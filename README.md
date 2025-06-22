@@ -1,4 +1,4 @@
-# 🩺 Diabetes Risk Prediction System
+# 🩺 GlucoGuard - Diabetes Risk Prediction System
 
 This project is a Machine Learning-based system that predicts the risk of diabetes using user inputs for common symptoms. It uses a neural network trained on labeled health data and includes preprocessing steps such as label encoding and class balancing.
 
