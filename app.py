@@ -80,4 +80,4 @@ if st.button("Predict"):
         st.balloons()
 
     # Optional debug: show raw score
-    st.caption(f"🧠 Raw prediction score: {prediction:.4f}")
+    #st.caption(f"🧠 Raw prediction score: {prediction:.4f}")
