@@ -12,8 +12,8 @@ with open('encoder.pkl', 'rb') as f:
     encoder_dict = pickle.load(f)
 
 # Streamlit UI setup
-st.set_page_config(page_title="Diabetes Prediction System", layout="wide")
-st.markdown("<h1 style='text-align: center;'>🩺 Diabetes Prediction System</h1>", unsafe_allow_html=True)
+st.set_page_config(page_title="Gluco Guard", layout="wide")
+st.markdown("<h1 style='text-align: center;'>🩺 Gluco Guard</h1>", unsafe_allow_html=True)
 st.write("Fill the form below to check the diabetes prediction.")
 
 # Sidebar: Feature Descriptions
